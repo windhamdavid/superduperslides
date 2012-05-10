@@ -1,4 +1,11 @@
 superduperslides
 ================
 
-real time slides application node.js, flatiron, plates
+real time slide presentation application 
+
+node
+flatiron
+union
+plates
+resourceful
+connect
